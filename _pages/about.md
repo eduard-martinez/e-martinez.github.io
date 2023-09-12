@@ -12,13 +12,12 @@ profile:
 news: true
 social: true
 ---
-I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Colombia) under the guidance of [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en). Currently, I am Doctoral Economics Intern on just transition at [Environmental Defense Fund](https://www.edf.org/).
+I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Colombia) under the guidance of [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en).
 {: .text-justify}
 
 My research fields are Macroeconomics and Environmental economics. My research focuses on assessing the impact of carbon taxes on economic growth and employment. The first paper of my thesis examines the effects of carbon taxes on economic growth and jobs, emphasizing the role of the energy mix. In the second chapter, I analyze the sectoral impact of carbon pricing policies on employment in developing countries. My research aims to provide valuable policy recommendations for facilitating a just transition.
 {: .text-justify}
-
-I hold both an M.S. in Economics and an M.S. in Oil and Gas Engineering from Udmurt State University, Russia. Additionally, I have a B.S. in Petroleum Engineering from Universidad de America, Colombia.
+In the summer of 2023, I worked as a Doctoral Economics Intern at the [Environmental Defense Fund](https://www.edf.org/), focusing on just transition issues. Additionally, I hold both an M.S. in Economics and an M.S. in Oil and Gas Engineering from Udmurt State University, Russia. 
 {: .text-justify}
 
 **I will be on the Job Market in 2024/2025.**
