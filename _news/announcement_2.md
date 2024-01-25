@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-09-01 07:59:00-0400
+date: 2023-12-01 07:59:00-0400
 inline: true
 ---
 
-Started second master degree in [Economics](https://udmurt-state-university.ru/) in Izhevsk, Russia. 
+I was selected to take part in the Research Mentoring Programme (PMI) on Article 6 of the SPAR6C program with [GGGI](https://gggi.org/colombia-takes-significant-steps-towards-climate-action-with-the-launch-of-the-spar6c-program/).
