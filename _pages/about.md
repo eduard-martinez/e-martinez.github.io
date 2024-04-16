@@ -18,7 +18,9 @@ I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Col
 My research interests involve macroeconomics and environmental economics. My research aims to provide helpful recommendations for carbon pricing and just energy transition policies. 
 {: .text-justify}
 
-The first article in my thesis examines _the effect of carbon taxes on economic growth and employment_, emphasizing the role of the energy mix. In the second chapter, I analyze _structural change and energy efficiency in Latin American countries since 1990_, as well as the impact of carbon pricing policies on these variables. The final chapter of my thesis is part of a mentoring program with [GGGI](https://gggi.org/colombia-takes-significant-steps-towards-climate-action-with-the-launch-of-the-spar6c-program/); the study examines _how students' preferences for green jobs change in communities where oil fields have been closed_. 
+The first article in my thesis examines _the effect of carbon taxes on economic growth and employment_, emphasizing the role of the energy mix. In the second chapter, I analyze _structural change and energy efficiency in Latin American countries, as well as the impact of carbon pricing policies on these variables. 
+
+The final chapter of my thesis is part of a mentoring program with [GGGI](https://gggi.org/colombia-takes-significant-steps-towards-climate-action-with-the-launch-of-the-spar6c-program/); the study examines _how students' preferences for green jobs change in communities where oil fields have been closed_. 
 {: .text-justify}
 
 
