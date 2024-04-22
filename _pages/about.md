@@ -18,7 +18,7 @@ I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Col
 My research interests involve macroeconomics and environmental economics. My research aims to provide helpful recommendations for Carbon Markets and Just Transition policies. 
 {: .text-justify}
 
-The first article in my thesis examines _the effect of carbon taxes on economic growth and employment_, emphasizing the role of the energy mix. In the second chapter, I analyze _structural change and energy efficiency in Latin American countries, as well as the impact of carbon pricing policies on these variables. The final chapter of my thesis deals with the curse of fiscal resources, I found that the fiscal dependence on these resources goes beyond the producing municipalities in Colombia and extends throughout the national territory.
+The first article in my thesis examines _the effect of carbon taxes on economic growth and employment_, emphasizing the role of the energy mix. In the second chapter, I analyze _structural change and energy efficiency in Latin American countries_, as well as the impact of carbon pricing policies on these variables. The final chapter sheds light on the fiscal resources curse, revealing that the reliance on these resources extends beyond the producing municipalities in Colombia and throughout the entire national territory.
 {: .text-justify}
 
 Previously I worked as a consultant for the [CFS](https://cfs.uniandes.edu.co/es/), the [CREE](https://creenergia.org/) and WorldBank.
