@@ -21,7 +21,7 @@ My research interests involve macroeconomics and environmental economics. My res
 The first article in my thesis examines _the effect of carbon taxes on economic growth and employment_, emphasizing the role of the energy mix. In the second chapter, I analyze _structural change and energy efficiency in Latin American countries, as well as the impact of carbon pricing policies on these variables. The final chapter of my thesis deals with the curse of fiscal resources, I found that the fiscal dependence on these resources goes beyond the producing municipalities in Colombia and extends throughout the national territory.
 {: .text-justify}
 
-Previously I worked as a consultant for the [CFS](https://cfs.uniandes.edu.co/es/) at the Universidad de los Andes and the [CREE](https://creenergia.org/).
+Previously I worked as a consultant for the [CFS](https://cfs.uniandes.edu.co/es/), the [CREE](https://creenergia.org/) and WorldBank.
 
 **I will be on the Job Market in 2024/2025.**
 
