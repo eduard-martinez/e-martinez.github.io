@@ -7,7 +7,25 @@ order: 2
 ---
 
 ## Research Interest
-- Carbon Pricing, Just Energy Transition, Environmental Economics, and Macroeconomics.
+*Carbon Pricing, Just Energy Transition, Environmental Economics, and Macroeconomics.*
+
+## Work in Progress
+- **Can We Grow While Reducing Emissions? The Role of Energy Mix**  
+  *Job Market Paper*  
+  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
+
+- **Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America**  
+  *co-authored with Hernando Zuleta*  
+  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
+
+- **Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast**  
+  *co-authored with Andrés Álvarez and Marc Hofstetter*  
+  [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
+
+- **REDD+ Como Herramienta para Evitar la Deforestación y la Expansión de Cultivos Ilícitos en el Pacífico Colombiano**  
+  *co-authored with Carolina Castro, Santiago Herrera, and Maria Alejandra Velez*  
+  [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)
+
 
 ## Publications
 - **A Global and Inclusive Just Transition: Challenges and Opportunities in Developing and Developed Countries' Labor Markets**
@@ -44,19 +62,3 @@ order: 2
   *ISBN: 978-5-4312-0641-2*  
   [Link](https://elibrary.ru/item.asp?id=35659175) -->
 
-## Work in Progress
-- **Can We Grow While Reducing Emissions? The Role of Energy Mix**  
-  *Job Market Paper*  
-  [Link](https://drive.google.com/file/d/1eYg6Hs0Cv2jnmFIusm3ZmQhtgHyRAH8O/view?usp=sharing)
-
-- **Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America**  
-  *co-authored with Hernando Zuleta*  
-  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
-
-- **Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast**  
-  *co-authored with Andrés Álvarez and Marc Hofstetter*  
-  [Link](https://drive.google.com/file/d/1nuB3i6P4AyoBYPVv7kwi5RD1NcrT9AA1/view?usp=sharing)
-
-- **REDD+ Como Herramienta para Evitar la Deforestación y la Expansión de Cultivos Ilícitos en el Pacífico Colombiano**  
-  *co-authored with Carolina Castro, Santiago Herrera, and Maria Alejandra Velez*  
-  [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)

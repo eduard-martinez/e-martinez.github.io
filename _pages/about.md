@@ -22,11 +22,16 @@ Supervisors: [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFI
 
 Thesis Overview:
 
-Chapter 1: Examines the effect of carbon taxes on economic growth, with a focus on the role of the energy mix.
+Chapter 1: *Can We Grow While Reducing Emissions? The Role of Energy Mix*  (JMP)  
+  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
 
-Chapter 2: Analyzes structural change and energy efficiency in Latin American countries, exploring the impact of carbon pricing policies.
+Chapter 2: *Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America* 
+  (co-authored with Hernando Zuleta)
+  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
 
-Chapter 3: Investigates the fiscal resources curse in Colombia, highlighting the widespread national reliance on these resources.
+Chapter 3: *Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast* 
+  (co-authored with Andrés Álvarez and Marc Hofstetter)
+  [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
 
 Language: Spanish (Native), English (Fluent), Russian (Fluent)
 
