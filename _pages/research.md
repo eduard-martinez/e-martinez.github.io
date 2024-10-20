@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /articles/
 title: Research
 order: 2
 ---
