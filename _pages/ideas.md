@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interests
+title: Ideas
 permalink: /ideas/
 description: Past and future project, some thoughts and opinions
 order: 5
