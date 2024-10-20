@@ -9,16 +9,16 @@ order: 3
 ## Research and Teaching Activities
 
 ### Teaching
-- **Tutor**, Introductory Course in Macroeconomics for Undergraduate Students  
+- **TA**, Introductory Course in Macroeconomics for Undergraduate Students  
   Universidad de los Andes (2022-II, 2023-I)
 
-- **Tutor**, Microeconomics: Consumer and Producer Theory for Undergraduate Students  
+- **TA**, Microeconomics: Consumer and Producer Theory for Undergraduate Students  
   Universidad de los Andes (2022-II)
 
-- **Tutor**, Introductory Course in Microeconomics for Graduate Students  
+- **TA**, Introductory Course in Microeconomics for Graduate Students  
   Universidad de los Andes (2022-I)
 
-- **Tutor**, Elective Course in Oil and Gas Engineering  
+- **TA**, Elective Course in Oil and Gas Engineering  
   Universidad de los Andes (2021)
 
 ### Presentations
