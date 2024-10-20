@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /activities/
-title: Research Activities
+title: Research and Teaching Activities
 description: A growing collection of your previous and current projects.
 order: 3
 ---
 
-## Research and Teaching Activities
 
 ### Teaching
 - **TA**, Introductory Course in Macroeconomics for Undergraduate Students  
