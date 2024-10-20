@@ -23,22 +23,24 @@ Supervisors: [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFI
 Thesis Overview:
 
 - *Chapter 1* Can We Grow While Reducing Emissions? The Role of Energy Mix  
-  </small>(JMP)</small>  
+  <small>(JMP)</small>  
   [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
 
 - *Chapter 2* Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America
-  </small>(co-authored with Hernando Zuleta)</small>
+  <small>(co-authored with Hernando Zuleta)</small>
   [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
 
 - *Chapter 3* Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast
-  </small>(co-authored with Andrés Álvarez and Marc Hofstetter)</small>
+  <small>(co-authored with Andrés Álvarez and Marc Hofstetter)</small>
   [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
 
 Language: Spanish (Native), English (Fluent), Russian (Fluent).
 
 Previous Experience:
-Consultant for [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank
+Consultant for [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank.
 
+
+<small>*Last updated: October 2024*</small>
 <!-- I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Colombia) under the guidance of [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en). Currently, I am part of the first cohort of graduate students in the Carbon Market Mentoring Program created as part of the Supporting Readiness for Article 6 Cooperation ([SPAR6C](https://www.spar6c.org/blog/meet-students-newly-created-mentorship-programme-carbon-markets)) program, co-led by the [GGGI](https://gggi.org/country/colombia/) and the [UNEP](https://unepccc.org/).
 {: .text-justify}
 

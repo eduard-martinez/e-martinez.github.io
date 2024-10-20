@@ -6,9 +6,6 @@ description: A growing collection of my previous and current papers.
 order: 2
 ---
 
-### Research Interest
-*Carbon Pricing, Just Energy Transition, Environmental Economics, and Macroeconomics.*
-
 ### Working Papers
 - **Can We Grow While Reducing Emissions? The Role of Energy Mix**  
   *Job Market Paper*  
