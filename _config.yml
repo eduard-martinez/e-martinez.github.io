@@ -45,14 +45,14 @@ nav:
 # -----------------------------------------------------------------------------
 # Pagination
 # -----------------------------------------------------------------------------
-paginate: 8
-permalink: /articles/:year/:title/
-paginate_path: /articles/page:num/
+#paginate: 8
+#permalink: /articles/:year/:title/
+#paginate_path: /articles/page:num/
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
+#text:
+#  pagination:
+#    newer: 'Newer'
+#    older: 'Older'
 
 # -----------------------------------------------------------------------------
 # Comments
