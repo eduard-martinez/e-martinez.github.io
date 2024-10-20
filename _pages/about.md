@@ -28,6 +28,8 @@ Chapter 2: Analyzes structural change and energy efficiency in Latin American co
 
 Chapter 3: Investigates the fiscal resources curse in Colombia, highlighting the widespread national reliance on these resources.
 
+Language: Spanish (Native), English (Fluent), Russian (Fluent)
+
 Previous Experience:
 Consultant for [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank
 

@@ -5,9 +5,8 @@ title: Research
 description: A growing collection of my previous and current papers.
 order: 2
 ---
-
-## Research Interest
-International Macroeconomics, Technology & Innovation Shocks, Time Series, Machine Learning
+<strong>Research Interest<strong>
+Research Interests: _Macroeconomics, Environmental Economics.
 
 ## Publication
 - **The Effects of COVID-19 on the Labor Market**, *International Journal of Economics, Business and Management*
