@@ -36,14 +36,19 @@ sass:
 blog_name: Research
 blog_description: Working papers
 
-# Pagination (puedes quitar esta sección si no necesitas paginación)
-paginate: false
+# Pagination
+paginate: 8
+permalink: /articles/:year/:title/
+paginate_path: /articles/page:num/
 
-# Deshabilitar links a otras páginas
-permalink: /articles/
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+
 
 # Comments
-disqus_shortname: '' # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 
 # Optional features
 show_social_icons:  true
