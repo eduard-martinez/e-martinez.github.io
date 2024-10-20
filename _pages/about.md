@@ -28,11 +28,11 @@ Thesis Overview:
 
 - *Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast* (co-authored with Andrés Álvarez and Marc Hofstetter)  [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
 
-**I will be on the Job Market in 2024/2025.**
-
 Language: Spanish (Native), English (Fluent), Russian (Fluent).
 
 Previous Experience:
 Consultant for [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank.
+
+**I will be on the Job Market in 2024/2025.**
 
 <small>*Last updated: October 2024*</small>
