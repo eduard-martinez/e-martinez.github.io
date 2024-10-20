@@ -41,8 +41,8 @@ nav:
     url: "/research/"
   - title: "About"
     url: "/about/"
-  - title: "Research Activities"  # New tab
-    url: "/activities/"
+#  - title: "Research Activities"  # New tab
+#    url: "/activities/"
 
 # -----------------------------------------------------------------------------
 # Pagination
