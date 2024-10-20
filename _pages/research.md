@@ -2,6 +2,7 @@
 layout: page
 permalink: /articles/
 title: Research
+description: A growing collection of my previous and current papers.
 order: 2
 ---
 

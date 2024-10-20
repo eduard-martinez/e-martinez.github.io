@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/
 title: Research Activities
+description: A growing collection of your previous and current projects.
 order: 3
 ---
 
