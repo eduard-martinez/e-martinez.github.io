@@ -14,7 +14,7 @@ social: true
 ---
 PhD Candidate in Economics, [Universidad de los Andes](https://economia.uniandes.edu.co/)
 
-Research Interests: _Macroeconomics, Environmental Economics._
+Research Interest: _Macroeconomics, Environmental Economics._
 
 Topics: _Carbon Pricing, Just Transition Policies._
 
@@ -34,7 +34,7 @@ Thesis Overview:
   </small>(co-authored with Andrés Álvarez and Marc Hofstetter)</small>
   [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
 
-Language: Spanish (Native), English (Fluent), Russian (Fluent)
+Language: Spanish (Native), English (Fluent), Russian (Fluent).
 
 Previous Experience:
 Consultant for [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank
