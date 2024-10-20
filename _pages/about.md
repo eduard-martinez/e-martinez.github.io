@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: <strong>Brigitte</strong> Castañeda Rodríguez
 order: 1
-description: Evaluating climate/energy policies <br/> #<blockquote2 class="warning" id="mymotto" title="Motto"><h5> 'Nothing is built on stone, all is built on sand; but we must build as if the sand were stone.' <br/> – Jorge Luis Borges</h5></blockquote2> 
+description: Evaluating climate/energy policies <br/> #
 
 profile:
   align: right
@@ -25,4 +25,3 @@ Previously I worked as a consultant for the [CFS](https://cfs.uniandes.edu.co/es
 
 **I will be on the Job Market in 2024/2025.**
 
-<a href="https://drive.google.com/file/d/1xbYaKzhQl2oEoItyBF_luAx62-OCYG7w/view?usp=sharing" download= "CV_Brigitte_Castañeda (10-24).pdf">Download My CV</a>
