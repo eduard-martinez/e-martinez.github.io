@@ -31,6 +31,14 @@ $chartColors: #56c7fa, #f76540, #ffcb05, #62cd9f, #b67baa,#62cd0f;
   transition: all 300ms ease-in-out;
 }
 
+
+.small-gray-text {
+  font-size: 0.9em;  /* Tamaño del texto reducido */
+  color: #777;       /* Color gris */
+  line-height: 1.6;  /* Espaciado entre líneas */
+}
+
+
 .item a {
   display: block;
   font-size: 1.2em;
