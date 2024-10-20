@@ -25,3 +25,4 @@ Previously I worked as a consultant for the [CFS](https://cfs.uniandes.edu.co/es
 
 **I will be on the Job Market in 2024/2025.**
 
+<a href="https://drive.google.com/file/d/1xbYaKzhQl2oEoItyBF_luAx62-OCYG7w/view?usp=sharing" download= "CV_Brigitte_Castañeda (10-24).pdf">Download My CV</a>
