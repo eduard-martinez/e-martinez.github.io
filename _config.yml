@@ -38,7 +38,7 @@ nav:
   - title: "Home"
     url: "/"
   - title: "Research"
-    url: "/research/"
+    url: "/articles/"
   - title: "About"
     url: "/about/"
   - title: "Research Activities"  # New tab
