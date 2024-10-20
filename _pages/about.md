@@ -12,18 +12,20 @@ profile:
 news: true
 social: true
 ---
-PhD Candidate in Economics, [Universidad de los Andes](https://economia.uniandes.edu.co/) (2022–Present)
+PhD Candidate in Economics, [Universidad de los Andes](https://economia.uniandes.edu.co/)
 
-Research Interests: Macroeconomics, Environmental Economics.
+Research Interests: _Macroeconomics, Environmental Economics._
 
-Topics: Carbon Markets, Just Transition Policies.
+Topics: _Carbon Pricing, Just Transition Policies._
 
 Supervisors: [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
 
 Thesis Overview:
 
 Chapter 1: Examines the effect of carbon taxes on economic growth, with a focus on the role of the energy mix.
+
 Chapter 2: Analyzes structural change and energy efficiency in Latin American countries, exploring the impact of carbon pricing policies.
+
 Chapter 3: Investigates the fiscal resources curse in Colombia, highlighting the widespread national reliance on these resources.
 
 Previous Experience:
