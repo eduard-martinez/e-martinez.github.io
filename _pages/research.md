@@ -6,10 +6,10 @@ description: A growing collection of my previous and current papers.
 order: 2
 ---
 
-## Research Interest
+### Research Interest
 *Carbon Pricing, Just Energy Transition, Environmental Economics, and Macroeconomics.*
 
-## Working Papers
+### Working Papers
 - **Can We Grow While Reducing Emissions? The Role of Energy Mix**  
   *Job Market Paper*  
   [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
@@ -27,7 +27,7 @@ order: 2
   [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)
 
 
-## Publications
+### Publications
 - **A Global and Inclusive Just Transition: Challenges and Opportunities in Developing and Developed Countries' Labor Markets**
   *Environmental Defense Fund Economics Discussion Paper Series, EDF EDP 24-03, Aug 2024*
   *co-authored with Luis F. Intriago, Raphael J. Heffron, and Minwoo Hyun*  
