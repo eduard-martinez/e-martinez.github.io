@@ -7,7 +7,7 @@ order: 2
 ---
 
 ### Working Papers
-- **Can We Grow While Reducing Emissions? The Role of Energy Mix**  
+- **Can Growth Take Place While Reducing Emissions? The Role of Energy Mix**  
   *Job Market Paper*  
   [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
 

@@ -18,17 +18,17 @@ Research Interest: _Macroeconomics, Environmental Economics._
 
 Topics: _Carbon Pricing, Just Transition Policies._
 
-Supervisors: [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
+Supervisor: [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
 
 Thesis Overview:
 
-- *Can We Grow While Reducing Emissions? The Role of Energy Mix* (JMP)  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
+- *Can Growth Take Place While Reducing Emissions? The Role of Energy Mix* (JMP)  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
 
 - *Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America* (co-authored with Hernando Zuleta)  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
 
 - *Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast* (co-authored with Andrés Álvarez and Marc Hofstetter)  [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
 
-Language: Spanish (Native), English (Fluent), Russian (Fluent).
+Languages: Spanish (Native), English (Fluent), Russian (Fluent).
 
 Previous Experience:
 Consultant for [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank.
