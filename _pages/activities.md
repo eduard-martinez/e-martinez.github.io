@@ -21,6 +21,8 @@ order: 3
   Universidad de los Andes (2021)
 
 ### Presentations
+- Economics Seminar, University of Lulea, Sweden (2024.12)
+- CEDE Seminar, University of the Andes, Bogota, Colombia (2024.10)
 - EfD Environmental for Development 18th Annual Meeting, Nairobi, Kenya. (2024.10)
 - EAERE European Association of Environmental and Resource Economist 29th Annual Conference, Leuven, Belgium. (2024.07)
 - AERE Association of Environmental and Resource Economist 2024 Summer Conference, Washington DC, USA. (2024.05)
@@ -30,7 +32,7 @@ order: 3
 
 ### Workshops Participation
 
-- **Mentoring workshop LACEA LAMES 2024**, (coming soon) Montevideo, Uruguay. (2024.11)
+- **Mentoring workshop LACEA LAMES 2024** Montevideo, Uruguay. (2024.11)
 - **SETI Sustainable Energy Transition Initiative 2024 Annual Workshop**, Online. (2024.06)
 - **Doctoral Workshop 2024 Faculty of Economics**, Universidad de los Andes. (2024.04)
 - **3-Minute Thesis - International Competition Campus Iberus**, Cartagena, Colombia. (2023.11)
