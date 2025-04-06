@@ -8,6 +8,9 @@ order: 3
 
 
 ### Teaching
+- **TA**, Economics and Sustainability for Graduate Students  
+  Universidad de los Andes (2024-I)
+
 - **TA**, Introductory Course in Macroeconomics for Undergraduate Students  
   Universidad de los Andes (2022-II, 2023-I)
 
@@ -21,6 +24,8 @@ order: 3
   Universidad de los Andes (2021)
 
 ### Presentations
+- LAERE Annual Meeting, Bogota, Colombia (2025.03).
+- Poster Session Bogota Experimental Economics Conference, Colombia (2025.01).
 - Economics Seminar, University of Lulea, Sweden (2024.12)
 - CEDE Seminar, University of the Andes, Bogota, Colombia (2024.10)
 - EfD Environmental for Development 18th Annual Meeting, Nairobi, Kenya. (2024.10)
