@@ -22,11 +22,11 @@ Supervisor: [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIA
 
 Thesis Overview:
 
-- *Can Growth Take Place While Reducing Emissions? * (JMP)  [Link](https://drive.google.com/file/d/1acLYCU1fL03ckn2vMmX96Lh9cviRzOqj/view?usp=sharing)
+- *Can Growth Take Place While Reducing Emissions? The role of Energy Mix* (JMP)  [Link](https://drive.google.com/file/d/1acLYCU1fL03ckn2vMmX96Lh9cviRzOqj/view?usp=sharing)
 
-- *Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America* (co-authored with Hernando Zuleta)  [Link](https://drive.google.com/file/d/1i4yP4qVSEjTyoavBaSS386N2CZIU95kQ/view?usp=sharing)
+- *Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America* (with Hernando Zuleta)  [Link](https://drive.google.com/file/d/1i4yP4qVSEjTyoavBaSS386N2CZIU95kQ/view?usp=sharing)
 
-- *Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast* (co-authored with Andrés Álvarez and Marc Hofstetter)  [Link](https://drive.google.com/file/d/1X8S7tcJ9TmAXNce4_IzMHI_ZG22kbn6h/view?usp=sharing)
+- *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities* (with Andrés Álvarez and Marc Hofstetter)  [Link](https://ideas.repec.org/p/col/000089/021389.html)
 
 Languages: Spanish (Native), English (Fluent), Russian (Fluent).
 
