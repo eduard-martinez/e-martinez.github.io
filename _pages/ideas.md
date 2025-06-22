@@ -6,6 +6,14 @@ description: Past and future project, some thoughts and opinions
 order: 5
 ---
 
+<center>
+  <h2>Visit my external blog</h2>
+  <a href="https://bribigfish.wordpress.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" width="50" alt="WordPress logo">
+    <br>
+    <strong>bribigfish.wordpress.com</strong>
+  </a>
+</center>
 
 <!--Tags generator-->
 {% assign all_tags = '' | split: ',' %}
