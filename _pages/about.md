@@ -31,8 +31,8 @@ Thesis Overview:
 Languages: Spanish (Native), English (Fluent), Russian (Fluent).
 
 Previous Experience:
-Consultant for [GGGI](https://gggi.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank.
+Consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank.
 
 **I will be on the Job Market in 2025/2026.**
 
-<small>*Last updated: April 2025*</small>
+<small>*Last updated: June 2025*</small>

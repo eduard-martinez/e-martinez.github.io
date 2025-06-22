@@ -15,16 +15,18 @@ order: 2
   *co-authored with Hernando Zuleta*  
   [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
 
-- **Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast**  
-  *co-authored with Andrés Álvarez and Marc Hofstetter*  
-  [Link](https://drive.google.com/file/d/1JCHvFAJJ7fhiEfZBikHKosTsYEUB64Zr/view?usp=sharing)
-
 - **REDD+ Como Herramienta para Evitar la Deforestación y la Expansión de Cultivos Ilícitos en el Pacífico Colombiano**  
   *co-authored with Carolina Castro, Santiago Herrera, and Maria Alejandra Velez*  
   [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)
 
 
 ### Publications
+- **Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast**  
+  *Serie Documentos CEDE, 2025-17*
+  *co-authored with Andrés Álvarez and Marc Hofstetter*  
+  [Link](https://ideas.repec.org/p/col/000089/021389.html)
+
+
 - **A Global and Inclusive Just Transition: Challenges and Opportunities in Developing and Developed Countries' Labor Markets**
   *Environmental Defense Fund Economics Discussion Paper Series, EDF EDP 24-03, Aug 2024*
   *co-authored with Luis F. Intriago, Raphael J. Heffron, and Minwoo Hyun*  
@@ -41,7 +43,7 @@ order: 2
 
 - **Synthetic NMR Well Logs Using Supervised Machine Learning Algorithms**  
   *ISBN 978-5-91961-386-2*  
-  [Link](https://drive.google.com/open?id=1Q97DmgdgpPPgY94va7neegoupcxxAq14)
+  [Link](https://drive.google.com/file/d/1gaiunCyO6SVvDadLXZSwF9eqf6o0Nv4-/view?usp=sharing)
 
 - **Effect Analysis of Natural Gas Prices on the Income of the Russian Budget**  
   *ISBN: 978-5-4312-0728*  
