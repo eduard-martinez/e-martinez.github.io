@@ -6,26 +6,11 @@ description: A growing collection of my previous and current papers.
 order: 2
 ---
 
-### Working Papers
-- **Can Growth Take Place While Reducing Emissions? The Role of Energy Mix**  
-  *Job Market Paper*  
-  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
-
-- **Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America**  
-  *co-authored with Hernando Zuleta*  
-  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
-
-- **REDD+ Como Herramienta para Evitar la Deforestación y la Expansión de Cultivos Ilícitos en el Pacífico Colombiano**  
-  *co-authored with Carolina Castro, Santiago Herrera, and Maria Alejandra Velez*  
-  [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)
-
-
 ### Publications
 - **Royalties and Local Fiscal Capacity: Effects of Evenly Spreading Jam Across the National Toast**  
   *Serie Documentos CEDE, 2025-17*
   *co-authored with Andrés Álvarez and Marc Hofstetter*  
   [Link](https://ideas.repec.org/p/col/000089/021389.html)
-
 
 - **A Global and Inclusive Just Transition: Challenges and Opportunities in Developing and Developed Countries' Labor Markets**
   *Environmental Defense Fund Economics Discussion Paper Series, EDF EDP 24-03, Aug 2024*
@@ -37,6 +22,29 @@ order: 2
   *co-authored with Andrés Álvarez, Marc Hofstetter, and Jorge Quintero*  
   [Link](https://drive.google.com/file/d/1GrqKq97daDK4Y_TtNg9b-AISaHIokySr/view?usp=sharing)
 
+
+### Working Papers
+- **Can Growth Take Place While Reducing Emissions? The Role of Energy Mix**  
+  *Job Market Paper*  
+  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
+
+- **Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America**  
+  *with Hernando Zuleta*  
+  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
+
+- **REDD+ projects in Afro-Colombian Communities: Impacts on Deforestation and Coca Crops**  
+  *with Carolina Castro, Santiago Herrera, and Maria Alejandra Velez*  
+  [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)
+
+- **When the Oil Runs Low, Where Do Students Go? Evidence from Local Shocks in Colombia**  
+  *with Jaime Polanco*  
+  
+- **How to make fossil fuel subsidy reform socially acceptable in Colombia: the role of information and compensatory policies**  
+  *with Farah Mohammadzadeh, Charlotte Bez, Leonard Missbach, Jan C. Steckel, Jorge Bonilla, Jorge Garcia. - Supported by EfD.*  
+  [Link](https://www.youtube.com/watch?v=xU4Jb-72xrM&ab_channel=17thBiennialConference)
+  
+
+### Conference Papers
 - **Equity Index for Educational Scores Standardization**  
   *DS4A Final Report*  
   [Link](https://drive.google.com/file/d/1dAOAYl9Zv2LbpIC8MDnJCwkkivqwOJCI/view?usp=sharing)
@@ -49,15 +57,7 @@ order: 2
   *ISBN: 978-5-4312-0728*  
   [Link](https://elibrary.ru/item.asp?id=41324383)
 
-<!-- - **ARIMA Forecast to Detect and Avoid Stuck Pipe Problems During Drilling**  
-  *ISBN 978-5-4312-0708-2*  
-  [Link](http://udsu.ru/files/nauka/002812-ConfXLVII.pdf)
-
-- **Aplicación del Método FMEA en la Perforación de Pozos**  
-  *Journal Technosphere Management 2018*  
-  [Link](http://f-ing.udsu.ru/technosphere/issue/technosphere-t01-362-482/tom01-446-457)
-
 - **Application of FMEA Methodology in Well Drilling**  
   *ISBN: 978-5-4312-0641-2*  
-  [Link](https://elibrary.ru/item.asp?id=35659175) -->
+  [Link](https://elibrary.ru/item.asp?id=35659175) 
 
