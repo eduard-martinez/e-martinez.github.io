@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-### CV
+
 <embed src="{{ site.baseurl }}/assets/docs/CV_Brigitte_Castaneda.pdf" type="application/pdf" width="100%" height="500px" />
 
  
