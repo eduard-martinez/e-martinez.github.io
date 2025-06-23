@@ -26,7 +26,7 @@ order: 2
 ### Working Papers
 - **Can Growth Take Place While Reducing Emissions? The Role of Energy Mix**  
   *Job Market Paper*  
-  [Link](https://drive.google.com/file/d/1OYfmpbXXvGDWXk05rwiFRDG5Hy7fEBmC/view?usp=sharing)
+  [Link](https://github.com/brigitte-castaneda/brigitte-castaneda.github.io/blob/506517921f3871f335ded852451211b83a969a4b/assets/docs/Can_growth_take_place_while_reducing_emissions.pdf)
 
 - **Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America**  
   *with Hernando Zuleta*  
