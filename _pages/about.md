@@ -28,10 +28,13 @@ Thesis Overview:
 
 - *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities* (with Andrés Álvarez and Marc Hofstetter)  [Link](https://ideas.repec.org/p/col/000089/021389.html)
 
+Im
 Languages: Spanish (Native), English (Fluent), Russian (Fluent).
 
 Previous Experience:
 Consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and World Bank.
+
+Affiliations: Member of the [EfD Network](https://www.efdinitiative.org/) via [REES Colombia](https://reesefdcolombia.uniandes.edu.co/).
 
 **I will be on the Job Market in 2025/2026.**
 
