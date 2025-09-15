@@ -23,7 +23,7 @@ I am a PhD Candidate in Economics at [Universidad de los Andes](https://economia
 **Supervisor:** [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
 
 ---
-📌 **You can ask my AI Assistant anything about my research or job market profile** (see bottom-right corner).
+👇 **Scroll down to ask Brigitte’s AI Assistant anything about my research, experience and job market profile** 
 <div class="ai-agent-container" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; margin-top: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 <iframe
 src="https://brigitte-chatbot-667403711390.us-central1.run.app"
