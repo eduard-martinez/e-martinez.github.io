@@ -17,11 +17,6 @@ Welcome!
 
 I am a PhD Candidate in Economics at [Universidad de los Andes](https://economia.uniandes.edu.co/) with a background in engineering and economics. My research combines macroeconomic tools with climate and development policy to evaluate the effects of carbon pricing, fiscal transfers, and the energy transition—especially in Latin America.
 
- **Previous Affiliations and Experience:**
-
-I have worked as a consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and the World Bank, supporting work on Article 6 of the Paris Agreement, carbon markets, and climate finance. I am a member of the [EfD Network](https://www.efdinitiative.org/) through [REES Colombia](https://reesefdcolombia.uniandes.edu.co/).
-
-
 **Thesis Overview:**
 
 - *Can Growth Take Place While Reducing Emissions? The Role of Energy Mix*  
@@ -33,9 +28,15 @@ I have worked as a consultant for [GGGI](https://gggi.org/), [EDF](https://www.e
 - *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities*  
   [[Job Market Paper PDF]](assets/docs/JMP_Brigitte_Castaneda.pdf)
 
+**Previous Affiliations and Experience:**
 
-**Research interests:** Macroeconomics, Environmental Economics, Climate Policy, Energy Transition, Fiscal Federalism  
+I have worked as a consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and the World Bank, supporting work on Article 6 of the Paris Agreement, carbon markets, and climate finance. I am a member of the [EfD Network](https://www.efdinitiative.org/) through [REES Colombia](https://reesefdcolombia.uniandes.edu.co/).
+
+
+**Research interests:** Macroeconomics, Environmental Economics, Climate Policy, Energy Transition
+
 **Languages:** Spanish (Native), English (Fluent), Russian (Fluent), French (Basic)  
+
 **Supervisor:** [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
 
 
