@@ -21,7 +21,7 @@ social: true
   language-code="en"
   max-query-length="-1">
   <df-messenger-chat
-    chat-title="Interact with Brigitte">
+    chat-title="Hi, I’m Brigitte’s AI assistant. Ask me anything about her research, experience, and job market profile.">
   </df-messenger-chat>
 </df-messenger>
 <style>
