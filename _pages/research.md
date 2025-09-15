@@ -25,12 +25,12 @@ order: 2
 
 ### Working Papers
 - **Can Growth Take Place While Reducing Emissions? The Role of Energy Mix**  
-  *Job Market Paper*  
+  *with Hernando Zuleta*  
   [Link](https://github.com/brigitte-castaneda/brigitte-castaneda.github.io/blob/506517921f3871f335ded852451211b83a969a4b/assets/docs/Can_growth_take_place_while_reducing_emissions.pdf)
 
 - **Climate Policy and Structural Change: Evidence from Energy Transitions in Latin America**  
   *with Hernando Zuleta*  
-  [Link](https://drive.google.com/file/d/1DduJE1t9aS-qPoZ3kPA1HDYLHvaDmDIy/view?usp=sharing)
+  [Link](https://github.com/brigitte-castaneda/brigitte-castaneda.github.io/blob/02c28593dc3809e0be0a6ee34501ee10b994035b/assets/docs/Structural_change_and_climate_policies.pdf)
 
 - **REDD+ projects in Afro-Colombian Communities: Impacts on Deforestation and Coca Crops**  
   *with Carolina Castro, Santiago Herrera, and Maria Alejandra Velez*  

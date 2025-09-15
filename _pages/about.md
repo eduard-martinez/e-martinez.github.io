@@ -24,9 +24,9 @@ Thesis Overview:
 
 - *Can Growth Take Place While Reducing Emissions? The role of Energy Mix*  [Link](https://github.com/brigitte-castaneda/brigitte-castaneda.github.io/blob/506517921f3871f335ded852451211b83a969a4b/assets/docs/Can_growth_take_place_while_reducing_emissions.pdf)
 
-- *Climate Policy and Structural Change: Evidence from Energy Transition in Latin America* (with Hernando Zuleta)  [Link](https://drive.google.com/file/d/1i4yP4qVSEjTyoavBaSS386N2CZIU95kQ/view?usp=sharing)
+- *Climate Policy and Structural Change: Evidence from Energy Transition in Latin America* (with Hernando Zuleta)  [Link](https://github.com/brigitte-castaneda/brigitte-castaneda.github.io/blob/02c28593dc3809e0be0a6ee34501ee10b994035b/assets/docs/Structural_change_and_climate_policies.pdf)
 
-- *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities (JMP)* (with Andrés Álvarez and Marc Hofstetter)  [Link](https://ideas.repec.org/p/col/000089/021389.html)
+- *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities (JMP)* (with Andrés Álvarez and Marc Hofstetter)  [Link](https://github.com/brigitte-castaneda/brigitte-castaneda.github.io/blob/506517921f3871f335ded852451211b83a969a4b/assets/docs/JMP_Brigitte_Castaneda.pdf)
 
 
 Languages: Spanish (Native), English (Fluent), Russian (Fluent), French (Basic).
@@ -38,4 +38,4 @@ Affiliations: Member of the [EfD Network](https://www.efdinitiative.org/) via [R
 
 **I will be on the Job Market in 2025/2026.**
 
-<small>*Last updated: June 2025*</small>
+<small>*Last updated: September 2025*</small>
