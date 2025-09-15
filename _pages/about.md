@@ -40,6 +40,8 @@ social: true
   }
 </style>
 
+👉 **On the right, you’ll find Brigitte’s AI assistant — ask anything about her research, experience, and job market profile.**
+
 PhD Candidate in Economics, [Universidad de los Andes](https://economia.uniandes.edu.co/)
 
 Research Interest: _Macroeconomics, Environmental Economics._
