@@ -3,11 +3,11 @@ layout: about
 permalink: /
 title: <strong>Brigitte</strong> Castañeda Rodríguez
 order: 1
-description: Evaluating climate/energy policies <br/> #
+description: Evaluating climate and energy policies <br/> #
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: circle_pic_prof.png
 
 news: true
 social: true
