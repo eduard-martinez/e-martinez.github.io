@@ -6,24 +6,28 @@ description: A growing collection of your previous and current projects.
 order: 3
 ---
 
+### Grants 
+- **IDB Research Grant** – 25,000 USD — **2025**
+- **EfD Research Project** – 50,000 USD — **2024**
 
 ### Teaching
-- **TA**, Economics and Sustainability for Graduate Students  
-  Universidad de los Andes (2024-I)
+- **TA**, Economics and Sustainability (Graduate level)  
+  Universidad de los Andes — **2025-I**
 
-- **TA**, Introductory Course in Macroeconomics for Undergraduate Students  
-  Universidad de los Andes (2022-II, 2023-I)
+- **TA**, Introductory Macroeconomics (Undergraduate level)  
+  Universidad de los Andes — **2022-II & 2023-I**
 
-- **TA**, Microeconomics: Consumer and Producer Theory for Undergraduate Students  
-  Universidad de los Andes (2022-II)
+- **TA**, Microeconomics: Consumer and Producer Theory (Undergraduate level)  
+  Universidad de los Andes — **2022-II**
 
-- **TA**, Introductory Course in Microeconomics for Graduate Students  
-  Universidad de los Andes (2022-I)
+- **TA**, Introductory Microeconomics (Graduate level)  
+  Universidad de los Andes — **2022-I**
 
-- **TA**, Elective Course in Oil and Gas Engineering  
-  Universidad de los Andes (2021)
+- **TA**, Elective in Oil and Gas Engineering  
+  Universidad de los Andes — **2021-I**
 
 ### Presentations
+- SETI Annual Workshop, Gothenburg, Sweden (2025.08).
 - LAERE Annual Meeting, Bogota, Colombia (2025.03).
 - Poster Session Bogota Experimental Economics Conference, Colombia (2025.01).
 - Economics Seminar, University of Lulea, Sweden (2024.12)
@@ -44,6 +48,7 @@ order: 3
 
 ### Professional Certificates
 - **Research Mentorship Program of the Community of Practice for Article 6 Implementing Countries**, GGGI
+  [Link](https://app.mycert.com/_app/account/login/ProofCertificate/CertificateDetails/MYCERTM00120ZCJE0FB095)
 - **Reproducible Research**, Universidad de los Andes  
   [Link](https://shorturl.at/eoIO8)
 - **Data Science For All (DS4A)**, Correlation One, MinTIC  
