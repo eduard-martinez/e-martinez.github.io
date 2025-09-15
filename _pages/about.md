@@ -17,19 +17,12 @@ Welcome!
 
 I am a PhD Candidate in Economics at [Universidad de los Andes](https://economia.uniandes.edu.co/) with a background in engineering and economics. My research combines macroeconomic tools with climate and development policy to evaluate the effects of carbon pricing, fiscal transfers, and the energy transition—especially in Latin America.
 
-My Job Market Paper explores how oil royalties shape subnational fiscal capacity and public investment. I also study how climate policies affect structural change and whether economic growth can be sustained while reducing emissions.
+ **Previous Affiliations and Experience:**
 
-I am currently based in Belgium and actively seeking job opportunities for the 2025/2026 academic year. You can find my full CV and research papers below.
+I have worked as a consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and the World Bank, supporting work on Article 6 of the Paris Agreement, carbon markets, and climate finance. I am a member of the [EfD Network](https://www.efdinitiative.org/) through [REES Colombia](https://reesefdcolombia.uniandes.edu.co/).
 
-My work draws from a wide range of empirical strategies, including natural experiments, panel data analysis, and macroeconomic simulations, and is informed by interdisciplinary collaborations with economists, engineers, and policy experts. I often work with international organizations and research networks on projects involving the just energy transition, climate resilience, and fiscal decentralization.
 
-**Research interests:** Macroeconomics, Environmental Economics, Climate Policy, Energy Transition, Fiscal Federalism  
-**Languages:** Spanish (Native), English (Fluent), Russian (Fluent), French (Basic)  
-**Supervisor:** [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
-
----
-
-### Publications and Job Market Paper
+**Thesis Overview:**
 
 - *Can Growth Take Place While Reducing Emissions? The Role of Energy Mix*  
   [[PDF]](assets/docs/Can_growth_take_place_while_reducing_emissions.pdf)
@@ -40,13 +33,11 @@ My work draws from a wide range of empirical strategies, including natural exper
 - *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities*  
   [[Job Market Paper PDF]](assets/docs/JMP_Brigitte_Castaneda.pdf)
 
----
 
-### Previous Affiliations and Experience
+**Research interests:** Macroeconomics, Environmental Economics, Climate Policy, Energy Transition, Fiscal Federalism  
+**Languages:** Spanish (Native), English (Fluent), Russian (Fluent), French (Basic)  
+**Supervisor:** [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
 
-I have worked as a consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and the World Bank, supporting work on Article 6 of the Paris Agreement, carbon markets, and climate finance. I am a member of the [EfD Network](https://www.efdinitiative.org/) through [REES Colombia](https://reesefdcolombia.uniandes.edu.co/).
-
----
 
 📌 **You can ask my AI Assistant anything about my research or job market profile** (see bottom-right corner).
 
