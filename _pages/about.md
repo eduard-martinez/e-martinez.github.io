@@ -12,6 +12,106 @@ profile:
 news: true
 social: true
 ---
+<!-- El contenedor desplegable que ya te funciona -->
+<details>
+  <summary><b>Try Brigitte's Chatbot</b></summary>
+
+  <div id="chat" class="w-full px-1 h-screen">
+    <!-- Aquí he insertado la configuración de tu NUEVO bot -->
+    <df-messenger
+      location="us-central1"
+      project-id="gneerative-learning"
+      agent-id="a9a55d46-0f2b-4592-a9d8-902505f57a96"
+      language-code="en"
+      max-query-length="-1">
+      <df-messenger-chat
+        chat-title="Brigitte">
+        <!-- Opcional: Si quieres añadirle un icono a Brigitte, puedes agregar la línea chat-icon como en tu bot anterior -->
+        <!-- chat-icon="https://example.com/path/to/brigitte_icon.png" -->
+      </df-messenger-chat>
+    </df-messenger>
+  </div>
+</details>
+
+<!-- El script necesario para que Dialogflow Messenger funcione (ya lo tenías) -->
+<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+
+<!-- Todos tus estilos personalizados para mantener la apariencia (los he copiado exactos) -->
+<style>
+  df-messenger {
+    --df-messenger-bot-message: #004aad; /* Bot message background color - dark blue */
+    --df-messenger-button-titlebar-color: #b76e2a; /* Title bar button color */
+    --df-messenger-chat-background-color: #ffffff; /* Chat background color - pure white */
+    --df-messenger-font-color: #000000; /* Font color for messages - black for high contrast */
+    --df-messenger-send-icon: #fca103; /* Send icon color */
+    --df-messenger-user-message: #005c2e; /* User message background color - dark green */
+    --df-messenger-chat-border-radius: 10px; /* Rounded corners for chat window */
+    --df-messenger-chat-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for chat window */
+  }
+
+  df-messenger .chat-wrapper[opened] df-messenger-chat .message-list .message.user {
+    background-color: var(--df-messenger-user-message);
+    border-radius: 10px; /* Rounded corners for user messages */
+    animation: fadeIn 0.5s ease-in-out; /* Fade-in animation for user messages */
+  }
+
+  df-messenger .chat-wrapper[opened] df-messenger-chat .message-list .message.bot {
+    background-color: var(--df-messenger-bot-message);
+    border-radius: 10px; /* Rounded corners for bot messages */
+    animation: fadeIn 0.5s ease-in-out; /* Fade-in animation for bot messages */
+  }
+
+  df-messenger .chat-wrapper[opened] df-messenger-chat {
+    background-color: var(--df-messenger-chat-background-color);
+    border-radius: var(--df-messenger-chat-border-radius);
+    box-shadow: var(--df-messenger-chat-box-shadow);
+  }
+
+  df-messenger .chat-wrapper[opened] df-messenger-titlebar {
+    background-color: var(--df-messenger-button-titlebar-color);
+    border-radius: var(--df-messenger-chat-border-radius) var(--df-messenger-chat-border-radius) 0 0;
+  }
+
+  df-messenger .chat-wrapper[opened] df-messenger-input {
+    color: var(--df-messenger-font-color);
+  }
+
+  df-messenger .chat-wrapper[opened] df-messenger-send-icon {
+    fill: var(--df-messenger-send-icon);
+  }
+
+  .df-messenger-message {
+    font-family: Arial, sans-serif; /* Specify a fallback font */
+    font-size: 18px; /* Increase font size for better readability */
+    line-height: 1.5; /* Set line spacing */
+    padding: 14px; /* Add padding for better spacing */
+    margin: 10px 0; /* Add margins for better spacing between messages */
+    color: var(--df-messenger-font-color); /* Apply the font color variable */
+  }
+
+  .w-full {
+    width: 95%;
+  }
+
+  .px-1 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .h-screen {
+    height: 60vh;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+</style>
+
 PhD Candidate in Economics, [Universidad de los Andes](https://economia.uniandes.edu.co/)
 
 Research Interest: _Macroeconomics, Environmental Economics._
