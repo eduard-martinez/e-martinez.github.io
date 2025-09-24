@@ -43,8 +43,8 @@ title="Brigitte's AI Assistant">
 - *Climate Policy and Structural Change: Evidence from Energy Transition in Latin America* (with Hernando Zuleta)  
   [[PDF]](assets/docs/Structural_change_and_climate_policies.pdf)
 
-- *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities*  
-  [[Job Market Paper PDF]](assets/docs/JMP_Brigitte_Castaneda.pdf)
+- *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities*  (with AndrÉs Álvarez and Marc Hofstetter)  
+  [[PDF]](assets/docs/JMP_Brigitte_Castaneda.pdf)
 
 ---
 **Previous Affiliations and Experience:**
