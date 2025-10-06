@@ -1,54 +1,64 @@
 ---
 layout: about
 permalink: /
-title: <strong>Brigitte</strong> Castañeda Rodríguez
+title: <strong>Eduard F.</strong> Martínez González
 order: 1
-description: Evaluating climate and energy policies <br/> #
+description: Transforming data into knowledge for public policy and financial innovation. <br/> #
 
 profile:
   align: right
-  image: circle_pic_prof.png
+  image: profile_pic.png
 
 news: true
 social: true
 ---
 Welcome!
 
-I am a PhD Candidate in Economics at [Universidad de los Andes](https://economia.uniandes.edu.co/) with a background in engineering and economics. My research combines macroeconomic tools with climate and development policy to evaluate the effects of carbon pricing, fiscal transfers, and the energy transition—especially in Latin America.
+I am a **Professor of Economics at [Universidad Icesi](https://www.icesi.edu.co/)** and **Director of the [Center for Research in Economics and Finance (CIENFI)](https://www.icesi.edu.co/cienfi)**.  
+I hold a Ph.D. in Economics from *Universidad de los Andes*.
 
-**Research interests:** Macroeconomics, Environmental Economics, Climate Policy, Energy Transition
+My research and consulting work focus on **applied econometrics, public policy, illegal markets, and data-driven decision-making**.  
+I combine methods from **machine learning**, **spatial analysis**, and **causal inference** to study the urban economy, credit risk, and the dynamics of informal markets.
 
-**Languages:** Spanish (Native), English (Fluent), Russian (Fluent), French (Basic)  
+**Research interests:** Public Policy, Urban and Spatial Economics, Informal and Illegal Markets, Machine Learning, Applied Econometrics  
 
-**Supervisor:** [Hernando Zuleta](https://scholar.google.com/citations?user=CgFQtFIAAAAJ&hl=en)
+**Languages:** Spanish (Native), English (Fluent)
 
 ---
-👇 **Scroll down to ask Brigitte’s AI Assistant anything about my research, experience and job market profile** 
+👇 **Scroll down to ask Eduard’s AI Assistant anything about my research, teaching, and data projects**  
 <div class="ai-agent-container" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; margin-top: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 <iframe
-src="https://brigitte-chatbot-667403711390.us-central1.run.app"
+src="https://eduard-chatbot-667403711390.us-central1.run.app"
 style="width: 100%; height: 300px; border: none; border-radius: 4px;"
-title="Brigitte's AI Assistant">
+title="Eduard's AI Assistant">
 </iframe>
 </div>
 
+---
 
+**Recent Projects:**
+
+- *Grid-Level GDP and Economic Activity Index (EAI)*  
+  High-resolution estimates of economic activity for major Colombian cities using VIIRS night-lights, business registries, and mobility data.  
+  [[Project Overview]](assets/docs/EAI_Methodology.pdf)
+
+- *Alternative Credit Scoring for Cooperative Banks*  
+  Machine learning models integrating transactional, geospatial, and behavioral data for credit risk assessment.  
+  [[Project Overview]](assets/docs/Scoring_Alternative_DeepData.pdf)
+
+- *SIGMOCA: Intelligent Monitoring System for Healthcare Services*  
+  An AI-based platform for real-time health system monitoring, developed with the **Secretaría de Salud de Cali**.  
+  [[Overview]](assets/docs/SIGMOCA_Project_Summary.pdf)
 
 ---
-**Thesis Overview:**
 
-- *Can Growth Take Place While Reducing Emissions? The Role of Energy Mix*  
-  [[PDF]](assets/docs/Can_growth_take_place_while_reducing_emissions.pdf)
+**Previous Roles and Experience:**
 
-- *Climate Policy and Structural Change: Evidence from Energy Transition in Latin America* (with Hernando Zuleta)  
-  [[PDF]](assets/docs/Structural_change_and_climate_policies.pdf)
+I have served as:
+- **Director of Data Analytics** at the *Superintendencia de Economía Solidaria de Colombia*,  
+- **Economic Advisor** to the Superintendent’s Office,  
+- **Consultant and researcher** for the *Secretarías de Desarrollo Económico de Bogotá y Cali*, *Banco Comeba*, and *CAF (Development Bank of Latin America)*.
 
-- *Spreading Jam Across the National Toast: Royalties and Local Fiscal Capacities*  (with AndrÉs Álvarez and Marc Hofstetter)  
-  [[PDF]](assets/docs/JMP_Brigitte_Castaneda.pdf)
+Through **[DeepData Latam](https://deepdata-latam.github.io/)**, I lead applied analytics and AI projects for cooperative financial institutions in Colombia.
 
----
-**Previous Affiliations and Experience:**
-
-I have worked as a consultant for [GGGI](https://gggi.org/), [EDF](https://www.edf.org/), [CFS](https://cfs.uniandes.edu.co/es/), [CREE](https://creenergia.org/), and the World Bank, supporting work on Article 6 of the Paris Agreement, carbon markets, and climate finance. I am a member of the [EfD Network](https://www.efdinitiative.org/) through [REES Colombia](https://reesefdcolombia.uniandes.edu.co/).
-
-<small>*Last updated: September 2025*</small>
+<small>*Last updated: October 2025*</small>
