@@ -1,29 +1,29 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Brigitte Castañeda
-email: brigittecasro@gmail.com
+title: Eduard F. Martínez González
+email: efmartinez@icesi.edu.co
 description: > # this means to ignore newlines until "url:"
-  Personal website.
+  Personal website of Eduard F. Martínez González, Ph.D. in Economics. 
+  Professor at Universidad Icesi and Director of the Center for Research in Economics and Finance (CIENFI).
 footer_text: > #
+  © 2025 Eduard F. Martínez González. All rights reserved.
 
-url: #"https://brigitte-castaneda.github.io/"
-baseurl: #/al-folio # the subpath of your site, e.g. /blog/
-last_updated: October 2024 # leave blank if you don't want to display last updated
+url: "https://eduard-martinez.github.io"
+baseurl: "" # leave empty for root
+last_updated: October 2025 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: brigitte-castaneda
-twitter_username: BrigitteCasRo
-linkedin_username: brigittecasro
-scholar_authorid: yq_2itUAAAAJ # put your google scholar author id
+github_username: eduard-martinez
+twitter_username: eduardmartinezg
+linkedin_username: eduard-martinez-gonzalez
+scholar_authorid: 8dfzZ3sAAAAJ # (tu Google Scholar ID)
 contact_note: >
-  Feel free to drop me a line at k.castaneda{at}uniandes.edu.co
+  You can reach me at efmartinez{at}icesi.edu.co or visit my research center at <a href="https://www.icesi.edu.co/cienfi" target="_blank">CIENFI</a>.
 
-  
-
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: # UA-XXXXXXXXX # optional: your Google Analytics code
 
 # Tags
 tag_dir: tag
@@ -32,7 +32,6 @@ tag_dir: tag
 sass:
     sass_dir: _sass
 
-
 # -----------------------------------------------------------------------------
 # Site navigation
 # -----------------------------------------------------------------------------
@@ -40,11 +39,13 @@ nav:
   - title: "Home"
     url: "/"
   - title: "Research"
-    url: "/articles/"
+    url: "/research/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Teaching"
+    url: "/teaching/"
   - title: "About"
     url: "/about/"
-  - title: "Activities"  # New tab
-    url: "/activities/"
 
 # -----------------------------------------------------------------------------
 # Pagination
@@ -61,7 +62,7 @@ nav:
 # -----------------------------------------------------------------------------
 # Comments
 # -----------------------------------------------------------------------------
-disqus_shortname: # put your disqus shortname
+disqus_shortname: # leave empty unless you configure Disqus
 
 # -----------------------------------------------------------------------------
 # Optional features
@@ -101,7 +102,6 @@ plugins:
     - jekyll-email-protect
     - jekyll-paginate
     - jemoji
-
 
 # -----------------------------------------------------------------------------
 # Other settings
