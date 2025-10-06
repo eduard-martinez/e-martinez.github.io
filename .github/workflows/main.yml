@@ -1,0 +1,37 @@
+name: Build and Deploy Jekyll site
+
+on:
+  push:
+    branches:
+      - main  # o master, si tu rama principal se llama así
+
+permissions:
+  contents: write  # necesario para hacer push al branch de publicación
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'  # usa una versión moderna y estable
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          bundle install
+
+      - name: Build site with Jekyll
+        run: |
+          bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
