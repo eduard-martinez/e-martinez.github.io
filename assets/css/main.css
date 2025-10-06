@@ -273,7 +273,7 @@ h6,
 
 .button-blue {
   color: white;
-  background-color: #00a878;
+  background-color: #00369f;
   border-radius: 3px;
   transition-duration: 0.1s;
   transition-timing-function: ease-out;
@@ -426,7 +426,7 @@ body {
 }
 
 a {
-  color: #00a878;
+  color: #00369f;
   text-decoration: none;
 }
 
@@ -939,7 +939,7 @@ body {
   z-index: 25;
 }
 .header-bar h1 {
-  color: #00a878;
+  color: #00369f;
   font-size: 75px;
 }
 .header-bar h2 {
@@ -982,7 +982,7 @@ footer a {
   color: #fff;
 }
 footer a:hover {
-  color: #00a878;
+  color: #00369f;
 }
 
 .page-content {
@@ -1170,7 +1170,7 @@ footer a:hover {
 
 .pagination a:hover, .pagination a:focus {
   background: white;
-  color: #00a878;
+  color: #00369f;
 }
 
 .pagination a:active {
@@ -1196,7 +1196,7 @@ footer a:hover {
 }
 
 .publications h2 {
-  color: #00a878;
+  color: #00369f;
   font-size: 32px;
   margin-bottom: 30px;
   text-align: center;
@@ -1226,7 +1226,7 @@ footer a:hover {
   font-weight: bolder;
 }
 .bibliography li .author a {
-  border-bottom: 1px dashed #00a878;
+  border-bottom: 1px dashed #00369f;
 }
 .bibliography li .author a:hover {
   border-bottom-style: solid;
@@ -1279,7 +1279,7 @@ footer a:hover {
 }
 
 .star {
-  color: #00a878;
+  color: #00369f;
   font-style: normal;
 }
 
@@ -1317,7 +1317,7 @@ code {
 }
 
 code {
-  color: #00a878;
+  color: #00369f;
   font-size: 85%;
   padding-bottom: 0.1em;
   padding-left: 0.2em;
@@ -1390,7 +1390,7 @@ figcaption {
 }
 
 .blankbox {
-  background: #00a878;
+  background: #00369f;
 }
 
 .img_row {
@@ -1443,12 +1443,12 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #00a878;
+  color: #00369f;
   text-decoration: none;
 }
 
 article a, .news a {
-  color: #00a878;
+  color: #00369f;
   font-weight: 100;
 }
 article a:hover, .news a:hover {
@@ -1459,7 +1459,7 @@ article a:hover, .news a:hover {
   color: #666;
 }
 .social a:hover {
-  color: #00a878;
+  color: #00369f;
 }
 
 .measure {
